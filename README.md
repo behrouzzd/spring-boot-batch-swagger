@@ -11,7 +11,7 @@ This application covers following tasks:
 (1-3)  /children/{child_id}/color : returns, for a given Child, the hairColor if the Child is a Daughter or the bicycleColor 
 if the Child is a Son.
   
-2) Implemented an online document for Rest API by swagger framework which can be reached through this url (ipAddress:port/swagger-ui.html)
+2) Implemented an online document for Rest API by swagger framework which can be reached through this url (localhost:8080/swagger-ui.html)
 
 3) Caching Person entity using second level cache in Hibernate to seed up the service performance.
 
