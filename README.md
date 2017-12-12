@@ -1,5 +1,5 @@
 The application is a web application, which uses Maven, Hibernate, Spring (Boot, Batch, Data), and Swagger. 
-Regarding the business there are some entite in the project including Person, Child, House, and Meal. A Person has a House and can have 
+Regarding the business there are some entities in the project including Person, Child, House, and Meal. A Person has a House and can have 
 multiple Children. Every Child has favorite meals.
 
 This application covers following tasks:
